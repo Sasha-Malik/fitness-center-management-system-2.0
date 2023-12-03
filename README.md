@@ -1,4 +1,4 @@
-# Fitness-Center-Management-System-Version-2.0
+# Fitness-Center-Management-System-2.0
 
 Implemented using a linked list based Stack ADT </br>
 Stores and manages classes at the fitness center  </br>
